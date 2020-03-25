@@ -1,0 +1,43 @@
+
+ h1 {
+    position:relative;
+    left: calc(50% - 130px)
+ }
+img {
+    width: 160px;
+    position:relative;
+    left: calc(50% - 80px)   
+}
+
+.about {
+    background: green;
+    position:relative;
+}
+
+#abotitulo {
+    position: relative;
+    left: calc(50% - 100px)
+}
+
+.hobbies {
+    background-image: url(https://tecreview.tec.mx/wp-content/uploads/2017/02/ESCUDO-DE-LA-BANDERA.jpg);
+    background-size: 300px, 300px;
+    background-repeat: no-repeat;
+    background-position: calc(50% - 50px);
+    position: relative;
+}
+
+#hobtitulo {
+    position: relative;
+    left: calc(50% - 100px)
+}
+
+.contact {
+    background: red;
+    position:relative;
+}
+
+#contitulo {
+    position: relative;
+    left: calc(50% - 100px)
+}
